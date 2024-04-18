@@ -1,0 +1,133 @@
+body {
+    background-image: url(lotsOfCookies.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .mainStyle {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 1000px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5); 
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .login-result-fail{
+    color: red;
+    font-size: 20px;
+  }
+
+  .form_input {
+ 
+    width: 50%;
+    padding: 0.75rem;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+    outline: none;
+    background: #eeeeee;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button{
+    width: 52%;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    background: black;
+    margin-bottom: 8px;
+    box-shadow: 0 4px #999;
+  }
+
+  button:hover {background-color: #3aa33e}
+
+  .button:active {
+    background-color: #3e8e41;
+    transform: translateY(4px);
+    box-shadow: 0 2px #525252;
+  }
+
+  
+  /* FOOTER */
+  
+  footer{
+    text-align: center;
+    color:black;
+    margin-top: auto;
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    padding-top: 10px;
+    max-width: 1000px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.5); 
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: burlywood;
+  }

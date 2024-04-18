@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Disallow: /login-portal.html
+Disallow: /admin.html

@@ -1,0 +1,3 @@
+﻿  hashTester.cpp
+C:\Users\camko\Documents\CS\SideProjects\DAWGCTF-rev\hashTester\hashTester.cpp(8,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  hashTester.vcxproj -> C:\Users\camko\Documents\CS\SideProjects\DAWGCTF-rev\hashTester\x64\Debug\hashTester.exe

@@ -1,0 +1,19 @@
+{
+  "name": "dawgctf",
+  "version": "1.0.0",
+  "description": "This is a Web Exploit Challenge for DawgCTF 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookies",
+    "CTF"
+  ],
+  "author": "CyberDawgs",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  }
+}
